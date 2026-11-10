@@ -1,0 +1,14 @@
+*.o
+*.elf
+*.prx
+*.SFO
+EBOOT.PBP
+release/
+build/
+__pycache__/
+
+# arte y música de terceros: no se publican (se generan o se copian en local)
+assets/atlas.rgba
+assets/music.raw
+assets/PIC1.PNG
+assets/ICON0.PNG
